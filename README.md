@@ -1,0 +1,3 @@
+# codeclause 
+# stockmarketpredictions
+# internship
